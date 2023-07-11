@@ -1,0 +1,13 @@
+*********Python Dictionary************
+D1 = dict{ 'Dict1': {},
+        'Dict2': { }
+		}
+
+D2 = dict{ 'Dict1': {'name': 'Pankaj', 'age': '28'},
+        'Dict2': {'name': 'Amir', 'age': '25'}}
+		
+Print(D2'Dict2']['age'])
+
+output:
+Amir
+25
